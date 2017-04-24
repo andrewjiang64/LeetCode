@@ -27,7 +27,6 @@ public class PathSum {
               {
                   if(cur.val == sum)
                     return true;
-                  
               }
                if(cur.right != null)
               {
